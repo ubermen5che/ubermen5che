@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ubermen5che
+- 👀 I’m interested in Spring Framework, Vue, JPA, Web MVC, AI, Blockchain
+- 🌱 I’m currently learning Spring, Vue, JPA
